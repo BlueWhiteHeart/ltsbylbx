@@ -1,0 +1,28 @@
+{
+  "name": "ltsnbylbx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ltsn": "bin/ltsn.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueWhiteHeart/ltsnbylbx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueWhiteHeart/ltsnbylbx/issues"
+  },
+  "homepage": "https://github.com/BlueWhiteHeart/ltsnbylbx#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cli-color": "^2.0.2",
+    "cli-table": "^0.3.11",
+    "compare-versions": "^4.1.3"
+  }
+}
